@@ -1,5 +1,7 @@
 ## Phrack Zine
 
+![pikachu_construction.gif](pikachu_construction.gif)
+
 This page is under construction.
 
 <!--
