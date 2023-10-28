@@ -1,6 +1,6 @@
 ## Phrack Zine
 
-![pikachu_construction.gif](pikachu_construction.gif)
+![](https://raw.githubusercontent.com/phrackzine/.github/main/profile/pikachu_construction.gif)
 
 This page is under construction.
 
